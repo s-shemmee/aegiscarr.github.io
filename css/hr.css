@@ -7,11 +7,3 @@ hr {
     text-align: center;
     height: 5px;
 }
-
-hr:after {
-    background: #fff;
-    content: 'æ';
-    padding: 0 4px;
-    position: relative;
-    top: -13px;
-}
