@@ -15,7 +15,7 @@ hr:after {
     top: -13px;
 }
 
-hr::before {
+#divider01::before {
     width: 37rem;
     border-top: 5px solid whitesmoke;
     height: 5px;
