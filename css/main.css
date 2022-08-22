@@ -5,3 +5,21 @@
 html {
     background-color:#262626
 }
+
+hr {
+    border: none;
+    width: 37rem;
+    border-top: 5px solid whitesmoke;
+    color: whitesmoke;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: 'æ';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
