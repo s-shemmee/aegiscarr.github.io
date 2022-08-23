@@ -2,6 +2,16 @@
     color: whitesmoke
 }
 
+h1 {
+    font-family: 'Exo 2';
+    font-weight: 550;
+}
+
+p {
+    font-family: Oxygen;
+    font-weight: 400;
+}
+
 html {
     background-color:#262626
 }
