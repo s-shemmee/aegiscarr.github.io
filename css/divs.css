@@ -1,3 +1,8 @@
 div#homepage-img{
     text-align: center;
+    /* margin-top: 5rem */
+}
+
+div#homepage-text{
+    vertical-align:middle
 }
