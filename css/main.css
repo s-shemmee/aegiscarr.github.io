@@ -5,12 +5,12 @@
 }
 
 h1 {
-    font-family: 'Exo 2';
+    font-family: 'Exo 2', sans-serif;
     font-weight: 550;
 }
 
 p {
-    font-family: Oxygen;
+    font-family: 'Oxygen', sans-serif;
     font-weight: 400;
 }
 
