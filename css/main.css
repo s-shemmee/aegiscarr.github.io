@@ -18,3 +18,8 @@ html {
     background-color:#262626;
     text-align: center
 }
+
+.homepage {
+    max-height: 50%;
+    margin: auto
+}
