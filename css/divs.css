@@ -11,9 +11,3 @@ div#homepage-content {
     display: table-cell;
     vertical-align: middle
 }
-
-div#navbar {
-    font-family: 'Oxygen', sans-serif;
-    font-weight: 400;
-    display: table
-}

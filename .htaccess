@@ -1,0 +1,7 @@
+RewriteEngine on
+#1) redirect file.html to file
+RewriteCond %{THE_REQUEST} /([^.]+).html [NC]
+RewriteRule .+ /%1 [L,R=301]
+#2) rewrite /file to file.html
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule (.*)/?$ /$1.html [L]
