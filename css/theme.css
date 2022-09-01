@@ -3261,7 +3261,9 @@ h6,.h6{
     margin-top:16px
 }
 .sidebar__navigation{
-    margin-top:50px
+    margin-top:50px;
+    font-family: "Exo 2", sans-serif;
+    font-size: 110%
 }
 .sidebar__navigation-link{
     color:#fff
