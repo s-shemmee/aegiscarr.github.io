@@ -3175,7 +3175,8 @@ h6,.h6{
     width:328px;
     height:100%;
     background-color:#19f;
-    color:#fff
+    color:#fff;
+    z-index: 1
 }
 .sidebar__inner{
     display:flex;
