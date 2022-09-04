@@ -2647,7 +2647,7 @@ h6,.h6{
     padding:13px 0;
     color:#fff;
     font-family: "Exo 2", sans-serif;
-    font-size: 110%
+    font-size: 130%
 }
 .mobile-menu__link:hover{
     color:rgba(255,255,255,0.8)
@@ -3227,12 +3227,14 @@ h6,.h6{
     max-width:240px
 }
 .sidebar__list-item+.sidebar__list-item{
-    margin-top:16px
+    margin-top:16px;
+    font-size: 130%;
+    font-family: "Exo 2", sans-serif
 }
 .sidebar__navigation{
     margin-top:50px;
     font-family: "Exo 2", sans-serif;
-    font-size: 110%
+    font-size: 75%
 }
 .sidebar__navigation-link{
     color:#fff
