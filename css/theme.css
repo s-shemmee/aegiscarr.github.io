@@ -2646,7 +2646,8 @@ h6,.h6{
     display:block;
     padding:13px 0;
     color:#fff;
-    font-size:1.0625rem
+    font-family: "Exo 2", sans-serif;
+    font-size: 110%
 }
 .mobile-menu__link:hover{
     color:rgba(255,255,255,0.8)
